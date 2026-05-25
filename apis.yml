@@ -1,0 +1,112 @@
+aid: msc-cargo
+name: MSC Mediterranean Shipping Company
+description: >-
+  MSC (Mediterranean Shipping Company) is a privately-held, family-owned global
+  container shipping and logistics group headquartered in Geneva, Switzerland,
+  founded in 1970 by Gianluigi Aponte and now led by CEO Soren Toft under the
+  Aponte-Diamant family. MSC is the world's largest container shipping line by
+  fleet size and capacity, operating roughly 900 cargo vessels with a combined
+  intake of about 7 million TEU and controlling more than a fifth of global
+  container capacity as of late 2025. The carrier offers a portfolio of digital
+  shipment-management products through its myMSC e-business platform — including
+  Instant Quote for online rate generation, online booking, electronic Bill of
+  Lading and Sea Waybill issuance via eDocs, container Track & Trace, and the
+  myMSC mobile app — and exposes a Direct Integrations program for shippers,
+  freight forwarders, and NVOCCs that combines REST APIs and EDI message
+  exchange. The MSC Developer Portal (developerportal.msc.com), hosted on
+  Microsoft Azure API Management, publishes documentation and EDI message
+  implementation guides for products such as the DCSA-aligned Track & Trace API
+  (v1.2 and v2.2), Booking, Booking Confirmation (X12 301 / EDIFACT IFTMIN), and
+  Shipping Instructions, alongside ANSI X12 and EDIFACT IFTMIN / IFTMBC / COPRAR
+  reference documents. MSC also runs direct-integration partnerships with
+  INTTRA, Infor Nexus, and CargoSmart. API and EDI access is not self-service:
+  prospective integrators must submit a Direct Integration request, and fees
+  may apply.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Shipping
+  - Container Shipping
+  - Ocean Freight
+  - Logistics
+  - Supply Chain
+  - Maritime
+  - Cargo
+  - Bill of Lading
+  - Track and Trace
+  - Booking
+  - Instant Quote
+  - EDI
+  - EDIFACT
+  - IFTMIN
+  - DCSA
+  - Direct Integrations
+  - myMSC
+  - eDocs
+  - Geneva
+url: https://raw.githubusercontent.com/api-evangelist/msc-cargo/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.msc.com
+  - type: About
+    url: https://www.msc.com/en/about-us
+  - type: DeveloperPortal
+    url: https://developerportal.msc.com/
+  - type: APICatalogue
+    url: https://developerportal.msc.com/api-catalogue
+  - type: APIDetails
+    url: https://developerportal.msc.com/api-details/
+  - type: EDIGuidelines
+    url: https://developerportal.msc.com/edi-guideline
+  - type: FAQ
+    url: https://developerportal.msc.com/faq
+  - type: Subscription
+    url: https://developerportal.msc.com/subscription
+  - type: DirectIntegrations
+    url: https://www.msc.com/en/solutions/digital-solutions/direct-integrations
+  - type: eBusiness
+    url: https://www.msc.com/en/ebusiness
+  - type: eDocs
+    url: https://www.msc.com/en/about-us/edocs
+  - type: TrackAndTrace
+    url: https://www.msc.com/en/track-a-shipment
+  - type: InstantQuote
+    url: https://www.msc.com/en/newsroom/press-releases/2020/july/msc-introduces-instant-quote-function-for-online-cargo-bookings
+  - type: TrackAndTraceOnboarding
+    url: https://developerportal.msc.com/content/TnT_Subscription_Customer_Onboarding.pdf
+  - type: BookingConfirmationX12301
+    url: https://developerportal.msc.com/content/MSC_MIG_X12_301_Booking_Confirmation.pdf
+  - type: ShippingInstructionsIFTMIN
+    url: https://developerportal.msc.com/content/MSC_MIG_EDIFACT_IFTMIN_Shipping_Instructions.pdf
+  - type: BlogAdoptsDCSACommercialScheduleAPI
+    url: https://www.msc.com/en/lp/blog/technology/msc-adopts-dcsa-commercial-schedule-api
+  - type: Newsroom
+    url: https://www.msc.com/en/newsroom
+  - type: Solutions
+    url: https://www.msc.com/en/solutions
+  - type: DigitalSolutions
+    url: https://www.msc.com/en/solutions/digital-solutions
+  - type: Sustainability
+    url: https://www.msc.com/en/sustainability
+  - type: Careers
+    url: https://www.msc.com/en/careers
+  - type: ContactUs
+    url: https://www.msc.com/en/contact-us
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mediterranean-shipping-company
+  - type: Twitter
+    url: https://twitter.com/MSCCargo
+    x-name: MSCCargo
+  - type: YouTube
+    url: https://www.youtube.com/@MSCCargo
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Mediterranean_Shipping_Company
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
