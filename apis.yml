@@ -66,6 +66,26 @@ tags:
   - DCSA
   - Direct Integrations
   - myMSC
+  - EDocs
+  - Geneva
+tags_raw:
+  - Shipping
+  - Container Shipping
+  - Ocean Freight
+  - Logistics
+  - Supply Chain
+  - Maritime
+  - Cargo
+  - Bill of Lading
+  - Track and Trace
+  - Booking
+  - Instant Quote
+  - EDI
+  - EDIFACT
+  - IFTMIN
+  - DCSA
+  - Direct Integrations
+  - myMSC
   - eDocs
   - Geneva
 url: https://raw.githubusercontent.com/api-evangelist/msc-cargo/refs/heads/main/apis.yml
