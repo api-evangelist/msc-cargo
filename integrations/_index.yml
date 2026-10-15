@@ -14,3 +14,30 @@
   relationship: carrier-coverage
   status: not-a-workflow
   arazzo: null
+- slug: msc-cargo-digital-container-shipping-association-carrier-members
+  label: Digital Container Shipping Association (carrier members)
+  partner: dcsa
+  partner_name: Digital Container Shipping Association (carrier members)
+  category: DCSA carrier member
+  type: register
+  channel: standard-directory
+  evidence: https://dcsa.org/about-us/members
+  source: edge
+  relationship: standard-participant
+  contract_reference:
+    register: DCSA carrier members (dcsa.org/about-us/members)
+    spec_file: null
+    standard: DCSA standards
+    role: dcsa-carrier-member
+    registered_name: MSC
+    website: https://www.msc.com/en/solutions/digital-solutions/direct-integrations
+    matched_domain: msc.com
+    matched_by: domain+verified
+    implemented_standards: Track and Trace 1.2 and 2.2, Operational Vessel Schedules 3.0 and Commercial Schedules
+      1.0
+    signal_note: 'participation; implemented_standards is DCSA''s adoption statement (context, not a conformance
+      result: no certified_products)'
+    detected_by: sweep-maritime-logistics.py
+    detected: '2026-10-15'
+  status: not-a-workflow
+  arazzo: null
